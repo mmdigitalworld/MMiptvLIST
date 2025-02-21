@@ -46,7 +46,7 @@
 <item>
 <title>Stiftung Corona Ausschuss</title>
 <description>MMiptvLIST</description>
-<media:content url="https://player.odycdn.com/v6/streams/1c562290073eee72b232808b4c36a9411758226f/92c6ca.mp4?download=true">
+<media:content url="https://stream.video.gettr.com/iRaYxx011NWfUjCG4x6c9hH5z7mmsl1M01IJ4eoLa401sU.m3u8">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" />
 </media:content>
 </item>
@@ -142,7 +142,7 @@
 <item>
 <title>ARD</title>
 <description>MMiptvLIST</description>
-<media:content url="https://mcdn.daserste.de/daserste/de/master.m3u8">
+<media:content url="https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8">
 <media:thumbnail url="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Das-Erste.png" />
 </media:content>
 </item>

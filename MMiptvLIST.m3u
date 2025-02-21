@@ -15,7 +15,7 @@ https://1a-1791.com/video/fwe2/b9/s8/2/9/5/o/Y/95oYx.gaa.rec.mp4
 https://1a-1791.com/video/fwe2/98/s8/2/R/x/A/W/RxAWx.aaa.rec.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stiftung.png" group-title="TVprogramme", Stiftung Corona Ausschuss
-https://player.odycdn.com/v6/streams/1c562290073eee72b232808b4c36a9411758226f/92c6ca.mp4?download=true
+https://stream.video.gettr.com/iRaYxx011NWfUjCG4x6c9hH5z7mmsl1M01IJ4eoLa401sU.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DELUXE-MUSIC.png" group-title="TVprogramme", DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -51,7 +51,7 @@ https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Das-Erste.png" group-title="TVprogramme", ARD
-https://mcdn.daserste.de/daserste/de/master.m3u8
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/ZDF.png" group-title="TVprogramme", ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
