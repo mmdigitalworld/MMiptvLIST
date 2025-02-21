@@ -1,2 +1,2 @@
 # MMiptvLIST
-IPTC
+IPTV
