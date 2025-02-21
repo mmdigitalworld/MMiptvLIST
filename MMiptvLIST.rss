@@ -510,7 +510,7 @@
 <item>
 <title>plex - ARTFLIX Filmklassiker</title>
 <description>MMiptvLIST</description>
-<media:content url="https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6348a1fb90b96ef5e0eb3284.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=FuZg-3jAmKDo-1t87zFa">
+<media:content url="https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-6348a1fb90b96ef5e0eb3284.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=XoyJXyhza1x4J5guBybh">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/plex-ARTFLIX-Filmklassiker.png" />
 </media:content>
 </item>
@@ -660,10 +660,10 @@
 </item>
 
 <item>
-<title>pluto tv - CAMP</title>
+<title>pluto tv - Star Trek - Enterprise</title>
 <description>MMipLIST</description>
-<media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/661801e871e8c30008a73f7b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=47.9500&deviceLon=8.8400&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-CAMP.png" />
+<media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Star-Trek-Enterprise.png" />
 </media:content>
 </item>
 
@@ -1998,7 +1998,7 @@
 <item>
 <title>Flimmerstube - INTRO</title>
 <description>MMiptvLIST VIDEO</description>
-<media:content url="https://files.catbox.moe/vjdya3.mp4">
+<media:content url="https://github.com/mmdigitalworld/MMiptvLIST/blob/main/flimmerstube.mp4?raw=true">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/flimmerstube.png" />
 </media:content>
 </item>
