@@ -1,0 +1,120 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/ClassicVideogamesRADIO.jpg" group-title="MMwebREDIO", Classic-Videogames RADIO
+http://195.201.9.210:1541/stream/2/
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/Radio-PARALAX.jpg" group-title="MMwebREDIO", Radio PARALAX
+http://radio-paralax.de:8000/;
+
+#EXTINF:0 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9f/c6/108753/1/c175.png" group-title="MMwebREDIO", Nerds and Geeks - THE STATION
+https://nerdsandgeeks.de:2874/stream/2/
+
+#EXTINF:0 tvg-logo="https://www.radio.de/images/broadcasts/4b/b9/4386/c300.png" group-title="MMwebREDIO", NoLife-radio
+https://listen.nolife-radio.com/stream
+
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s25260/images/logoq.jpg" group-title="MMwebREDIO", WDR 1LIVE
+https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+
+#EXTINF:0 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/TPsaQmhLY3.png" group-title="MMwebREDIO", Radio7
+https://streams.radio7.de/dab/mp3-192/mytuner/
+
+#EXTINF:0 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/MRDWhFTCX6.png" group-title="MMwebREDIO", Radio7 - Ravensburg
+https://streams.radio7.de/rv/mp3-192/mytuner/
+
+#EXTINF:0 tvg-logo="https://images.radio7.de/files/streams/r7_stream_90er.png" group-title="MMwebREDIO", Radio7 - Die 90er
+https://streams.radio7.de/90ereudance/mp3-192/mytuner/
+
+#EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s237962q.png" group-title="MMwebREDIO", SUNSHINE LIVE  - Die 90er
+https://stream.sunshine-live.de/90er/mp3-192/
+
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s10637/images/logoq.png" group-title="MMwebREDIO", SUNSHINE LIVE
+https://stream.sunshine-live.de/live/mp3-192/tunein/
+
+#EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s237965q.png" group-title="MMwebREDIO", SUNSHINE LIVE - classics
+https://stream.sunshine-live.de/classics/mp3-192/radioplayer.de/
+
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s84203/images/logoq.jpg" group-title="MMwebREDIO", bigFM - Deutschlands biggste Beats
+https://stream.bigfm.de/deutschland/mp3-128/
+
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s24933/images/logoq.png" group-title="MMwebREDIO", Antenne Vorarlberg
+https://web.radio.antennevorarlberg.at/av-live
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/Radio-Seefunk.png" group-title="MMwebREDIO", Das neue Radio Seefunk
+https://webradio.radio-seefunk.de/live
+
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s103802/images/logoq.png" group-title="MMwebREDIO", Radio ROKS Ukraine
+http://online.radioroks.ua/RadioROKS
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/radioTOP40Clubsound.jpg" group-title="MMwebREDIO", radio TOP 40 Clubsound
+https://stream.radiotop40.de/electro/mp3-192/
+
+#EXTINF:0 tvg-logo="https://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-90er.png" group-title="MMwebREDIO", 1A 90er Hits
+https://stream.1a-webradio.de/saw-90er/mp3-192/stream.mp3
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/lohro.png" group-title="MMwebREDIO", LOHRO
+http://stream.lohro.de:8000/lohro.mp3
+
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-tgX4Vdp20bU/WxcIiBqr_nI/AAAAAAAADBs/jt4UHDftdPINEyHNX4hOQ-fSxPieiVKDACLcBGAs/s1600/Cover.jpg" group-title="MMwebREDIO Mixes", DJ Kosta - The 80s MegaMix
+https://archive.org/download/DJKostaThe80sMegaMix/DJ%20Kosta%20-%20The%2080s%20MegaMix.mp3
+
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-CpBnyiXdI4g/WDLf88QXfvI/AAAAAAAAC7g/GjmXENBqFSs1KS6yzfbwaGQzfb8SfUBTwCLcB/s1600/90-1.jpg" group-title="MMwebREDIO Mixes", DJ Deep - Deep 90s Vol. 1
+https://archive.org/download/DJDeepDeep90sVol.1/DJ%20Deep%20-%20Deep%2090s%20Vol.%201.mp3
+
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-XaUdbizPyaw/WDLgYSfuZ7I/AAAAAAAAC7k/W85EbJuScgECeI-wVwWuL228ckO8y-YXACLcB/s280/Cover.jpg" group-title="MMwebREDIO Mixes", DJ Deep - Deep 90s Vol. 2
+http://archive.org/download/DJDeepDeep90sVol.1/DJ%20Deep%20-%20Deep%2090s%20Vol.%202.mp3
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/--5h-z4Ba-5I/WDLg3CMcnrI/AAAAAAAAC7o/TtB7ZbcrtysZGQBbUq2zhIXgBJXqH79fgCLcB/s1600/Cover.jpg" group-title="MMwebREDIO Mixes", DJ Deep - Deep 90s Vol. 3
+http://archive.org/download/DJDeepDeep90sVol.1/DJ%20Deep%20-%20Deep%2090s%20Vol.%203.mp3
+
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-JaaKzLzwLoY/WfMOU2ojKNI/AAAAAAAADAM/AkDETsy4ijk1-2HT26RusbKy1ZjkziycACLcBGAs/s1600/Cover.jpg" group-title="MMwebREDIO Mixes", Studio 33 - The 114th Story
+https://archive.org/download/Studio33The114thStory/Studio%2033%20-%20The%20114th%20Story.mp3
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-HN7GGs6c7c8/V2OZ3NCi-lI/AAAAAAAAC6s/LUZiRW5Tlq0jCE7ms3WPUs6yeWwLdI1ZACLcB/s280/Cover.jpeg" group-title="MMwebREDIO Mixes", Studio 38 - Back to the 90s
+https://archive.org/download/Studio38BackToThe90s/Studio%2038%20-%20Back%20to%20the%2090s.mp3
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-GCO1LImbgMA/Wdyjt4dUuYI/AAAAAAAAC-8/WFlgwfcdnWY5dO6pwrT-MGU7R-TeHmKwACLcBGAs/s280/Cover.jpg" group-title="MMwebREDIO Mixes", DJ Devil - Back To The 90s Part IV
+https://archive.org/download/DJDevilBackToThe90sPartIV/DJ%20Devil%20-%20Back%20To%20The%2090%27s%20Part%20IV.mp3
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-zaOgQBE7EqA/WqJ247OSjCI/AAAAAAAADBM/H5aHweC5h4EGaXWCtXr9hI4hGufEuxmHACLcBGAs/s1600/Cover.png" group-title="MMwebREDIO Mixes", DJ Crisbros - The Space Of Trance Kollektiv Yearmix 2017
+https://archive.org/download/TheSpaceOfTranceKollektivYearmix2017/TheSpaceOfTranceKollektivYearmix2017.mp3
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-7D4__jS22TE/WfMFic0R5GI/AAAAAAAAC_8/l50ud0z7vZ8wWbQeZpyFJQct-hKwSP9_QCLcBGAs/s280/Smash-front.jpg" group-title="MMwebREDIO Mixes", Mr. G - Smash Mix
+http://archive.org/download/Mr.GSmashMix/Mr.%20G%20-%20SmashMix.mp3
+
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-kSHQGc1bbps/VT9mmczWMrI/AAAAAAAAC0M/hQhs4zgIE7A/s280/InTheMixRadio%2B%2B-%2B%2B21st.%2BCentury%2BDance%2BMix%2B%2B%2B2000%2B-%2B2015%2BFront.jpg" group-title="MMwebREDIO Mixes", InTheMixRadio - 21st. Century Dance Mix 2000 - 2015
+https://archive.org/download/InTheMixRadio21st.CenturyDanceMix20002015WithoutBonus/InTheMixRadio%20-%2021st.%20Century%20Dance%20Mix%202000%20-%202015%20without%20Bonus.mp3
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/Deep-Summerparty-2015.jpg" group-title="MMwebREDIO Mixes", DJ Deep - Deep Summerparty 2015
+https://archive.org/download/DJDeepDeepSummerparty2015/DJ%20Deep%20-%20Deep%20Summerparty%202015.mp3
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/Pool-Mix-1990s.jpg" group-title="MMwebREDIO Mixes", Pool Mix 1990s - The DVD - Mixed by DJ Pool
+https://archive.org/download/Pool90s/DjPool-90sPoolmixspecialEdition.mp3
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/Dreamtime.jpg" group-title="MMwebREDIO Mixes", Dreamtime - Turrican 2 Main Title (Dosk Mix)
+https://amigaremix.com/listen/2271/Turrican%202%20Main%20Title%20(Dosk%20Mix).mp3
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/Dr.Future-Cybernoid-Gargoyles-Theme.jpg" group-title="MMwebREDIO Mixes", Dr. Future - Cybernoid (Gargoyle's Theme)
+https://remix.kwed.org/files/RKOfiles/Dr%20Future%20-%20Cybernoid%20(Gargoyle's%20Theme).mp3
+
+#EXTINF:0 tvg-logo="https://static-cos.mureka.ai/cos-prod/files/38922017046529/20241111/95f77377c2ae4ad29182381b092df215.png" group-title="MMwebREDIO Mixes", Mister Michael Mayerhofer the king of the iron fifth - 01
+https://static-cos.mureka.ai/cos-prod/song/audio/20241111/music_39097802883073_Xa3S84jGYcELFdPU8pbM31_ffvmmj.mp3
+
+#EXTINF:0 tvg-logo="https://static-cos.mureka.ai/cos-prod/files/38922017046529/20241111/0b4eeb7b3a264a8f94d217b0109abbab.png" group-title="MMwebREDIO Mixes", Mister Michael Mayerhofer the king of the iron fifth - 02
+https://static-cos.mureka.ai/cos-prod/song/audio/20241111/music_39098245447682_Duu5J8EkXtP39j17WsAcdj_wnzrec.mp3
+
+#EXTINF:0 tvg-logo="https://static-cos.mureka.ai/cos-prod/files/38922017046529/20241111/e6b1e340241f49a997ac0296dcf67344.png" group-title="MMwebREDIO Mixes", Mister Michael Mayerhofer the king of the iron fifth - 03
+https://static-cos.mureka.ai/cos-prod/song/audio/20241111/music_39098245447682_Duu5J8EkXtP39j17WsAcdj_dwqsey.mp3
+
+#EXTINF:0 tvg-logo="https://file.aiquickdraw.com/m/202411251713002823e5f455.png" group-title="MMwebREDIO Mixes", Thomas Laass is the best video gamer and player in the world the Country Look
+https://file.aiquickdraw.com/s/20241125171259e73927c2d9.mp3
+
+#EXTINF:0 tvg-logo="https://file.aiquickdraw.com/m/20241125172845faf997ce02.png" group-title="MMwebREDIO Mixes", Thomas Laass is the best video gamer and player in the world the RapGirl
+https://file.aiquickdraw.com/s/2024112517284498ebe06739.mp3
+
+#EXTINF:0 tvg-logo="https://file.aiquickdraw.com/m/2024120617053378c2160b48.png" group-title="MMwebREDIO Mixes", Paddy Hard Rock Style
+https://file.aiquickdraw.com/s/20241206170531d898a66f99.mp3
+
+#EXTINF:0 tvg-logo="https://file.aiquickdraw.com/m/2024120617053385841ae486.png" group-title="MMwebREDIO Mixes", Paddy Hardcore Rock Style
+https://file.aiquickdraw.com/s/202412061705327123e5ea45.mp3
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/MMwebREDIOintro.png" group-title="MMwebREDIO Video", MMwebREDIO
+https://files.catbox.moe/f93vqj.mp4
