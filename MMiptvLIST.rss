@@ -132,14 +132,6 @@
 </item>
 
 <item>
-<title>MyTVplus</title>
-<description>MMipLIST</description>
-<media:content url="https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/MyTVplus.png" />
-</media:content>
-</item>
-
-<item>
 <title>ARD</title>
 <description>MMiptvLIST</description>
 <media:content url="https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8">
@@ -414,7 +406,7 @@
 <item>
 <title>Rakuten TV - Romance</title>
 <description>MMiptvLIST</description>
-<media:content url="https://8bd243f0856747b4aa9ae0716bc2c79e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-de_RakutenRomance/playlist.m3u8">
+<media:content url="https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/RakutenTV-Romance.png" />
 </media:content>
 </item>
