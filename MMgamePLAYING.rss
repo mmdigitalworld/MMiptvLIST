@@ -5,7 +5,7 @@
 
 <item>
 <title>MMgamePLAYING ---TV---</title>
-<description>MMwebREDIO</description>
+<description>MMgamePLAYING</description>
 <media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMgamePLAYING.mp4?raw=true">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/MMgamePLAYING---TV---.png" />
 </media:content>
@@ -13,7 +13,7 @@
 
 <item>
 <title>PC - Returnal - MMgamePLAYING</title>
-<description>MMwebREDIO</description>
+<description>MMgamePLAYING</description>
 <media:content url="https://archive.org/download/mmgameplaying/PC-Returnal-MMgamePLAYING.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/PC-Returnal-MMgamePLAYING.jpg" />
 </media:content>
@@ -29,7 +29,7 @@
 
 <item>
 <title>PC - The Callisto Protocol - MMgamePLAYING</title>
-<description>MMwebREDIO</description>
+<description>MMgamePLAYING</description>
 <media:content url="https://archive.org/download/mmgameplaying/PC-The-Callisto-Protocol---MMgamePLAYING.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/PC-The-Callisto-Protocol---MMgamePLAYING.jpg" />
 </media:content>
@@ -37,7 +37,7 @@
 
 <item>
 <title>PC - The Callisto Protocol - Final Transmission - MMgamePLAYING</title>
-<description>MMwebREDIO</description>
+<description>MMgamePLAYING</description>
 <media:content url="https://archive.org/download/mmgameplaying/PC-The-Callisto-Protocol-Final-Transmission-MMgamePLAYING.mp4">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/PC-The-Callisto-Protocol-Final-Transmission-MMgamePLAYING.jpg" />
 </media:content>
