@@ -7,7 +7,15 @@
 <title>MMgamePLAYING ---TV---</title>
 <description>MMwebREDIO</description>
 <media:content url="https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMgamePLAYING.mp4?raw=true">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/MMgamePLAYING---TV---.png" />
+<media:thumbnail url="https://raw.githubusercontent.com/mmdigitalworld/MMiptvLIST/refs/heads/main/MMgamePLAYING---TV---.png" />
+</media:content>
+</item>
+
+<item>
+<title>PC - Mortal Kombat X - MMgamePLAYING</title>
+<description>MMwebREDIO</description>
+<media:content url="https://archive.org/download/mmgameplaying/PC-Mortal-Kombat-10-MMgamePLAYING.mp4">
+<media:thumbnail url="https://raw.githubusercontent.com/mmdigitalworld/MMiptvLIST/refs/heads/main/PC-Mortal-Kombat-10-MMgamePLAYING.jpg" />
 </media:content>
 </item>
 
