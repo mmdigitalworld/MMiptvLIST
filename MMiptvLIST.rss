@@ -1756,6 +1756,14 @@
 </item>
 
 <item>
+<title>Terminator ---TV---</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://wagasworld.com/get_m3u8_link.php?channel=Terminator&apikey=6b2e03f5da516d5f4f33068c352cc78e">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/Terminator---TV---.png" />
+</media:content>
+</item>
+
+<item>
 <title>Chuck Norris ---TV---</title>
 <description>MMiptvLIST VIDEO</description>
 <media:content url="https://wagasworld.com/get_m3u8_link.php?channel=ChuckNorris&apikey=6b2e03f5da516d5f4f33068c352cc78e">

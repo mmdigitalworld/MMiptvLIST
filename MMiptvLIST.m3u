@@ -647,6 +647,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=Stirb.Langsam&apikey=6b2e03f5da
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Arnold-Schwarzenegger---TV---.png" group-title="CineMM", Arnold Schwarzenegger ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=ArnoldSchw&apikey=6b2e03f5da516d5f4f33068c352cc78e
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Terminator---TV---.png" group-title="CineMM", Terminator ---TV---
+https://wagasworld.com/get_m3u8_link.php?channel=Terminator&apikey=6b2e03f5da516d5f4f33068c352cc78e
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Chuck-Norris---TV---.png" group-title="CineMM", Chuck Norris ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=ChuckNorris&apikey=6b2e03f5da516d5f4f33068c352cc78e
 
