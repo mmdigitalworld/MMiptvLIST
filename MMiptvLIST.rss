@@ -588,10 +588,10 @@
 </item>
 
 <item>
-<title>pluto tv - Serienklassiker</title>
-<description>MMipLIST</description>
-<media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6690fdce2e4b5d0008a5ce0c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.1600&deviceLon=9.7700&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-serienklassiker.png" />
+<title>pluto tv - Eine schrecklich nette Familie</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67a324d221af380008105d6f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Eine-schrecklich-nette-Familie.png" />
 </media:content>
 </item>
 
@@ -616,14 +616,6 @@
 <description>MMiptvLIST</description>
 <media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-KULTFILME.png" />
-</media:content>
-</item>
-
-<item>
-<title>pluto tv - Deutsche Sitcoms</title>
-<description>MMipLIST</description>
-<media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6672f49f61a39900089db68e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=47.9700&deviceLon=9.0500&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Deutsche-Sitcoms.png" />
 </media:content>
 </item>
 
@@ -688,14 +680,6 @@
 <description>MMiptvLIST</description>
 <media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=">
 <media:thumbnail url="https://img.webme.com/vorschau/m/mmdigitalworld/PlutoTV-Star-Trek.png" />
-</media:content>
-</item>
-
-<item>
-<title>pluto tv - Pacific Blue - Die Strandpolizei</title>
-<description>MMipLIST</description>
-<media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad5bd283aa40008064568/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=47.9100&deviceLon=9.0000&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Pacific-Blue.png" />
 </media:content>
 </item>
 
@@ -868,14 +852,6 @@
 </item>
 
 <item>
-<title>pluto tv - Teenage Mutant Ninja Turtles</title>
-<description>MMipLIST</description>
-<media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca6d35812e80008883cdd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.3600&deviceLon=9.3300&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=">
-<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Teenage-Mutant-Ninja-Turtles.png" />
-</media:content>
-</item>
-
-<item>
 <title>pluto tv - Nickelodeon - Teenage Mutant Ninja Turtles</title>
 <description>MMiptvLIST</description>
 <media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=">
@@ -904,6 +880,14 @@
 <description>MMiptvLIST</description>
 <media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64070e086a0009d7b028/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=">
 <media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Freitag-Nacht-News.png" />
+</media:content>
+</item>
+
+<item>
+<title>pluto tv - Sanfte Berührungen</title>
+<description>MMiptvLIST VIDEO</description>
+<media:content url="https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67d983d6a1609bdb523f5f9b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=">
+<media:thumbnail url="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Sanfte-Beruehrungen.png" />
 </media:content>
 </item>
 

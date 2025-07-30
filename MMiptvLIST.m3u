@@ -197,8 +197,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-SERIE.png" group-title="TVprogramme", pluto tv - SERIE
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.0872&deviceLon=9.2275&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-serienklassiker.png" group-title="TVprogramme", pluto tv - Serienklassiker
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6690fdce2e4b5d0008a5ce0c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.1600&deviceLon=9.7700&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Eine-schrecklich-nette-Familie.png" group-title="TVprogramme", pluto tv - Eine schrecklich nette Familie
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67a324d221af380008105d6f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Knallhart.png" group-title="TVprogramme", pluto tv - KNALLHART
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004605110545000842035d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=47.9529&deviceLon=9.3868&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
@@ -218,12 +218,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Romance.png" group-title="TVprogramme", pluto tv - Romance
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Deutsches-Kino.png" group-title="TVprogramme", pluto tv - Deutsches Kino
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630e00c065cfc10007c6e06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.9400&deviceLon=8.8400&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=
-
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Deutsche-Sitcoms.png" group-title="TVprogramme", pluto tv - Deutsche Sitcoms
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6672f49f61a39900089db68e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=47.9700&deviceLon=9.0500&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
-
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Western.png" group-title="TVprogramme", pluto tv - Western
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=47.7900&deviceLon=9.3300&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=
 
@@ -232,9 +226,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Ladykracher.png" group-title="TVprogramme", pluto tv - Ladykracher
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/667d3534ca74680008696051/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.9400&deviceLon=8.8400&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=
-
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Star-Trek-Enterprise.png" group-title="TVprogramme", pluto tv - Star Trek - Enterprise
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Moviepilot.png" group-title="TVprogramme", pluto tv - Moviepilot
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.5900&deviceLon=9.7700&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
@@ -275,9 +266,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0 tvg-logo="https://img.webme.com/vorschau/m/mmdigitalworld/PlutoTV-Star-Trek.png" group-title="TVprogramme", pluto tv - Star Trek
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Pacific-Blue.png" group-title="TVprogramme", pluto tv - Pacific Blue - Die Strandpolizei
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad5bd283aa40008064568/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=47.9100&deviceLon=9.0000&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=
-
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Andromeda.png" group-title="TVprogramme", pluto tv - Andromeda
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663a163f8ea5560008a3f234/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.9400&deviceLon=8.8400&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=
 
@@ -317,9 +305,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Hausmeister-Kause.png" group-title="TVprogramme", pluto tv - Hausmeister Krause
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f6faf65be650007f57aab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Teenage-Mutant-Ninja-Turtles.png" group-title="TVprogramme", pluto tv - Teenage Mutant Ninja Turtles
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca6d35812e80008883cdd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.3600&deviceLon=9.3300&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=
-
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Teenage-Mutant-Ninja-Turtles.png" group-title="TVprogramme", pluto tv - Nickelodeon - Teenage Mutant Ninja Turtles
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
 
@@ -328,6 +313,9 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PlutoTV-Freitag-Nacht-News.png" group-title="TVprogramme", pluto tv - Freitag Nacht News
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64070e086a0009d7b028/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a0d3103a5adc4e0095f1155716f57e78&deviceLat=48.1463&deviceLon=9.6160&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=5e621aed69ea11ee9ee948b02db1895d&userId=
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Sanfte-Beruehrungen.png" group-title="TVprogramme", pluto tv - Sanfte Berührungen
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67d983d6a1609bdb523f5f9b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=39de77de2ae04647bf61b5dc18c92444&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=c53550485f9b11efb3df48b02db1895d&userId=
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/pluto.tv-Heisse-Naechte.png" group-title="TVprogramme", pluto tv - Heiße Nächte
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64526a145a0cd50008632bfa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f38af546366d4c6f9e7bb5cc5ddec412&deviceLat=48.0800&deviceLon=9.1200&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DE&sid=cd54ceb16c3311eebaf326181da8f39f&userId=
