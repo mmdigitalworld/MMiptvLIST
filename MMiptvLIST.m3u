@@ -44,6 +44,75 @@ https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/in
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RT-DE.png" group-title="TVprogramme", RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RTL.png" group-title="TVprogramme", RTL
+https://s6.hopslan.com/rtlz3/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RTL2.png" group-title="TVprogramme", RTL 2
+https://s6.hopslan.com/rtl2z/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/SuperRTL.png" group-title="TVprogramme", Super RTL
+https://s6.hopslan.com/superX/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RTL-NITRO.png" group-title="TVprogramme", RTL NITRO
+https://s6.hopslan.com/nitro1/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Comedy-Central.png" group-title="TVprogramme", Comedy Central
+https://s6.hopslan.com/vivaX/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/VOX.png" group-title="TVprogramme", VOX
+https://s6.hopslan.com/voxz/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/N-TV.png" group-title="TVprogramme", N-TV
+https://s6.hopslan.com/ntvX/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/TELE5.png" group-title="TVprogramme", TELE 5
+https://s6.hopslan.com/tele5X/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PRO7.png" group-title="TVprogramme", PRO 7
+https://s6.hopslan.com/pro7z/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/PRO7MAXX.png" group-title="TVprogramme", PRO 7 MAXX
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/SAT1.png" group-title="TVprogramme", SAT.1
+https://s6.hopslan.com/sat1z/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/SAT1GOLD.png" group-title="TVprogramme", SAT.1 GOLD
+https://s6.hopslan.com/goldX/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DMAX.png" group-title="TVprogramme", DMAX
+https://s6.hopslan.com/dmaxX/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/TLC.png" group-title="TVprogramme", TLC
+https://s6.hopslan.com/tlcX/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/SIXX.png" group-title="TVprogramme", SIXX
+https://s6.hopslan.com/sixX/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/DisneyChannel.png" group-title="TVprogramme", Disney Channel
+https://s6.hopslan.com/disneyX/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/KABEL1.png" group-title="TVprogramme", KABEL 1
+https://s6.hopslan.com/kabel1z/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/KABEL1DOKU.png" group-title="TVprogramme", KABEL 1 DOKU
+https://s6.hopslan.com/dokuX/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/SRF1.png" group-title="TVprogramme", SRF1
+https://s6.hopslan.com/srf1/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ORF1.png" group-title="TVprogramme", ORF1
+https://s6.hopslan.com/orf11/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ORF2.png" group-title="TVprogramme", ORF2
+https://s6.hopslan.com/orf2/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ORF3.png" group-title="TVprogramme", ORF3
+https://s6.hopslan.com/orf3/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/ServusTV.png" group-title="TVprogramme", Servus TV
+https://s6.hopslan.com/servus22/index.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Das-Erste.png" group-title="TVprogramme", ARD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
