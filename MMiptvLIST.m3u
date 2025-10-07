@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MMiptvLIST.png" group-title="TVprogramme", MMiptvLIST
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/AUF1.png" group-title="TVprogramme", SRGT
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/AUF1.png" group-title="TVprogramme", AUF1
 https://archive.org/download/AUF1-MMTVCENTER/-AUF1-2025.10.06-MMtvCENTER.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT.png" group-title="TVprogramme", SRGT
