@@ -2,6 +2,9 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/MMiptvLIST.png" group-title="TVprogramme", MMiptvLIST
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/AUF1.png" group-title="TVprogramme", SRGT
+https://archive.org/download/AUF1-MMTVCENTER/-AUF1-2025.10.06-MMtvCENTER.mp4
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT.png" group-title="TVprogramme", SRGT
 https://hugh.cdn.rumble.cloud/video/s8/2/n/A/b/U/nAbUq.caa.rec.mp4
 
