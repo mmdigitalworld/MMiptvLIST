@@ -53,7 +53,7 @@ https://s6.hopslan.com/rtlq/index.m3u8
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RTL2.png" group-title="TVprogramme", RTL ZWEI
 https://s6.hopslan.com/rtl2q/index.m3u8
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RTLsuper.png" group-title="TVprogramme", RTL SUPER
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Toggo-und-RTLsuper.png" group-title="TVprogramme", TOGGO UND RTL SUPER
 https://s6.hopslan.com/superX/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/NITRO.png" group-title="TVprogramme", NITRO
