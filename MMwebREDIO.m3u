@@ -12,10 +12,10 @@ https://nerdsandgeeks.de:2874/stream/2/
 https://listen.nolife-radio.com/stream
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/Dance-Wave.jpg" group-title="MMwebREDIO", DANCE WAVE
-https://dancewave.online/dance.mp3
+https://dancewave.online/
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/Dance-Wave-Retro.jpg" group-title="MMwebREDIO", DANCE WAVE RETRO
-https://retro.dancewave.online/retrodance.mp3
+https://retro.dancewave.online/
 
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s25260/images/logoq.jpg" group-title="MMwebREDIO", WDR 1LIVE
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
