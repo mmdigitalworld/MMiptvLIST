@@ -12,7 +12,7 @@ https://nerdsandgeeks.de:2874/stream/2/
 https://listen.nolife-radio.com/stream
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/Dance-Wave.jpg" group-title="MMwebREDIO", DANCE WAVE
-https://dancewave.online/
+https://onair.dancewave.online:8082/
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmtvcenter/Dance-Wave-Retro.jpg" group-title="MMwebREDIO", DANCE WAVE RETRO
 https://retro.dancewave.online/
