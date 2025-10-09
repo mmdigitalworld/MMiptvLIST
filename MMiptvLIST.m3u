@@ -47,7 +47,7 @@ https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/in
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RT-DE.png" group-title="TVprogramme", RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RTL.png" group-title="TVprogramme", RTL
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RTL-2022.png" group-title="TVprogramme", RTL
 https://s6.hopslan.com/rtl/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RTL2.png" group-title="TVprogramme", RTL ZWEI
