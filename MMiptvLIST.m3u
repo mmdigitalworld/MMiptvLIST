@@ -395,6 +395,9 @@ https://archive.org/download/resource.uisounds.mm.sounds/z-srgt-e.mp4
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/premiere.png" group-title="Video-on-Demand", premiere
 https://archive.org/download/resource.uisounds.mm.sounds/z-p-alt.mp4
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Comic-Stars-gegen-Drogen.png" group-title="Video-on-Demand", Comic Stars gegen Drogen
+https://archive.org/download/resource.uisounds.mm.sounds/z-Co5466445.mp4
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/haris-sv.png" group-title="Video-on-Demand", Haris und der gefährliche Straßenverkehr beim Essen
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/haris-sv.mp4?raw=true
 
@@ -757,9 +760,6 @@ https://wagasworld.com/get_m3u8_link.php?channel=The.Boys&apikey=6b2e03f5da516d5
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Paranormal-Activity---TV---.png" group-title="CineMM", Paranormal Activity ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=ParanormalActivity&apikey=6b2e03f5da516d5f4f33068c352cc78e
-
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Paranormal-Activity---TV---.png" group-title="Video-on-Demand", Paranormal Activity ---TV---
-https://archive.org/download/resource.uisounds.mm.sounds/z-Co5466445.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Best-of-MR.M.M.png" group-title="Video-on-Demand", Best of MR.M.M.
 https://archive.org/download/resource.uisounds.mm.sounds/Video-Best-of-MR.M.M.mp4
