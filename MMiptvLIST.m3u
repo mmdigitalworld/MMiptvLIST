@@ -3,7 +3,7 @@
 https://github.com/mmserverspeicher/MMiptvLIST/blob/main/MMiptvLIST.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/AUF1.png" group-title="TVprogramme", AUF1
-https://archive.org/download/AUF1-MMTVCENTER/-AUF1-2025.10.16-MMtvCENTER.mp4
+https://archive.org/download/AUF1-MMTVCENTER/-AUF1-2025.10.17-MMtvCENTER.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/SRGT.png" group-title="TVprogramme", SRGT
 https://hugh.cdn.rumble.cloud/video/s8/2/n/A/b/U/nAbUq.caa.rec.mp4
@@ -757,6 +757,9 @@ https://wagasworld.com/get_m3u8_link.php?channel=The.Boys&apikey=6b2e03f5da516d5
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Paranormal-Activity---TV---.png" group-title="CineMM", Paranormal Activity ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=ParanormalActivity&apikey=6b2e03f5da516d5f4f33068c352cc78e
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Paranormal-Activity---TV---.png" group-title="Video-on-Demand", Paranormal Activity ---TV---
+https://archive.org/download/resource.uisounds.mm.sounds/z-Co5466445.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Best-of-MR.M.M.png" group-title="Video-on-Demand", Best of MR.M.M.
 https://archive.org/download/resource.uisounds.mm.sounds/Video-Best-of-MR.M.M.mp4
