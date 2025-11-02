@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>VR 180° 3D SBS Player</title>
+<script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+<style>
+  body { margin: 0; overflow: hidden; background: #000; }
+  .label {
+    color: gold; font-weight: bold; background: rgba(0,0,0,0.7);
+    padding: 0.1em 0.3em; border-radius: 0.1em; font-size: 1.2em;
+  }
+</style>
+</head>
+<body>
+
+<a-scene embedded vr-mode-ui="enabled: true" background="color: #000" cursor="rayOrigin: mouse">
+  <!-- Kamera + Cursor -->
+  <a-entity id="cameraRig">
+    <a-entity camera look-controls position="0 1.6 0">
+      <a-entity cursor="fuse: false; rayOrigin: mouse" raycaster="objects: .clickable" 
+                position="0 0 -0.5" geometry="primitive: ring; radiusInner: 0.01; radiusOuter: 0.015" 
+                material="color: #0ff; shader: flat"></a-entity>
+    </a-entity>
+  </a-entity>
+
+  <!-- 180° 3D SBS Video-Sphere -->
+  <a-videosphere id="vrVideo" src="#video" rotation="0 180 0" stereoscopy="side-by-side"></a-videosphere>
+
+  <!-- Video Element (versteckt) -->
+  <video id="video" src="" crossorigin="anonymous" playsinline webkit-playsinline style="display:none"></video>
+
+  <!-- Floating Menü -->
+  <a-entity id="vrMenu" position="0 1.5 -2">
+    <!-- Video 1 -->
+    <a-plane class="clickable" position="-0.6 0 0" width="0.5" height="0.3" color="#111"
+             material="shader: flat" onclick="playVRVideo('https://cdn-vr.sexlikereal.com/videos_app/h265/66927_2160p.mp4')">
+      <a-image src="https://cdn-vr.sexlikereal.com/images/66927/vr-porn-Pov-Alexa-Chains-With-Creampie-cover-app.jpg" width="0.5" height="0.3" position="0 0 0.01"></a-image>
+      <a-text value="Pov Alexa Chains With Creampie" color="gold" position="-0.2 0.15 0.02" width="1"></a-text>
+    </a-plane>
+
+    <!-- Video 2 -->
+    <a-plane class="clickable" position="0.6 0 0" width="0.5" height="0.3" color="#111"
+             material="shader: flat" onclick="playVRVideo('https://trailers.czechvr.com/czechvr/videos/download/468/468-czechvr-3d-5400x2700-60fps-oculusrift_h265-fullvideo-1.mp4')">
+      <a-image src="https://img.webme.com/pic/m/mmtvcenter/Lovita-Fate-Sybil.jpg" width="0.5" height="0.3" position="0 0 0.01"></a-image>
+      <a-text value="Lovita Fate and Sybil" color="gold" position="-0.2 0.15 0.02" width="1"></a-text>
+    </a-plane>
+  </a-entity>
+</a-scene>
+
+<script>
+function playVRVideo(url) {
+  const videoEl = document.getElementById('video');
+  const vsphere = document.getElementById('vrVideo');
+  
+  videoEl.src = url;
+  videoEl.play();
+  
+  vsphere.setAttribute('src', '#video');
+
+  // Menü ausblenden
+  const menu = document.getElementById('vrMenu');
+  menu.setAttribute('visible', false);
+
+  alert("180° 3D SBS Video gestartet! Nutze Controller-Pointer zum Schauen.");
+}
+</script>
+
+</body>
+</html>
