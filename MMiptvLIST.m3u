@@ -48,7 +48,7 @@ https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 https://s6.hopslan.com/rtl1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/RTL2.png" group-title="TVprogramme", RTL ZWEI
-https://s6.hopslan.com/rtl/index.m3u8
+https://s6.hopslan.com/rtl2q/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/Toggo-und-RTLsuper.png" group-title="TVprogramme", TOGGO UND RTL SUPER
 https://s6.hopslan.com/superX/index.m3u8
