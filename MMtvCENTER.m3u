@@ -137,5 +137,8 @@ https://archive.org/download/resource.uisounds.mm.sounds/z-etv-001.mp4
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", ETVC Sendung 2
 https://archive.org/download/resource.uisounds.mm.sounds/z-etv-002.mp4
 
-#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", ETVC Sendung 2
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", ETVC Sendung 3
 https://archive.org/download/resource.uisounds.mm.sounds/z-etv-003.mp4
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", ETVC Sendung 4
+https://archive.org/download/resource.uisounds.mm.sounds/z-etv-004.mp4
