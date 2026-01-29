@@ -3,7 +3,7 @@
 https://github.com/mmdigitalworld/MMiptvLIST/raw/main/MMtvCENTER-Werbespot.mp4?raw=true
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", Live in der Sendung von Radio Paralax
-https://archive.org/download/resource.uisounds.mm.sounds/z-rc-emr.mp4
+https://archive.org/download/resource.uisounds.mm.sounds/z-rp-20.12.2014.mp4
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", Heiko Schöning der Mann wo Corona vorausgesagt hat bei KenFN
 https://archive.org/download/resource.uisounds.mm.sounds/z-kj-hs.mp4
@@ -145,3 +145,9 @@ https://archive.org/download/resource.uisounds.mm.sounds/z-etv-003.mp4
 
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", ETVC Sendung 4
 https://archive.org/download/resource.uisounds.mm.sounds/z-etv-004.mp4
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", ETVC Sendung 5
+https://archive.org/download/resource.uisounds.mm.sounds/z-etv-005.mp4
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", ETVC Sendung 6
+https://archive.org/download/resource.uisounds.mm.sounds/z-etv-006.mp4
