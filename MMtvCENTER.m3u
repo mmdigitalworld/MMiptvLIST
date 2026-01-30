@@ -2,6 +2,15 @@
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", MMtvCENTER
 https://github.com/mmdigitalworld/MMiptvLIST/raw/main/MMtvCENTER-Werbespot.mp4?raw=true
 
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", MM-KI-SPOTS
+https://archive.org/download/resource.uisounds.mm.sounds/MM-KI-SPOTS.mp4
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", MM-KI-SPOTS-DIE-ZWEITE
+https://archive.org/download/resource.uisounds.mm.sounds/MM-KI-SPOTS-DIE-ZWEITE.mp4
+
+#EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", Dominion
+https://archive.org/download/resource.uisounds.mm.sounds/z-dtie.mp4
+
 #EXTINF:0 tvg-logo="https://img.webme.com/pic/m/mmdigitalworld/MMtvCENTER.png" group-title="MMtvCENTER", AUF1 - Heiko Schöning: Verbrecher-Clans kämpfen um die Macht und sie werden nun sichtbar!
 https://archive.org/download/AUF1-MMTVCENTER/AUF1-2025.07.20-MMtvCENTER.mp4
 
