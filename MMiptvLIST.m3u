@@ -579,7 +579,7 @@ https://wagasworld.com/get_m3u8_link.php?channel=The.Mandalorian&apikey=6b2e03f5
 https://wagasworld.com/get_m3u8_link.php?channel=guldukat-starwars&apikey=6b2e03f5da516d5f4f33068c352cc78e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stargate-SG1---TV---.png" group-title="CineMM", Stargate SG1 ---TV---
-https://wagasworld.com/get_m3u8_link.php?channel=stargate&apikey=6b2e03f5da516d5f4f33068c352cc78e
+https://wagasworld.com/get_m3u8_link.php?channel=Stargate-SG1&apikey=6b2e03f5da516d5f4f33068c352cc78e
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/main/Stargate-Atlantis---TV---.png" group-title="CineMM", Stargate Atlantis ---TV---
 https://wagasworld.com/get_m3u8_link.php?channel=stargate-atlantis&apikey=6b2e03f5da516d5f4f33068c352cc78e
